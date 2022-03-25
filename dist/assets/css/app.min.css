@@ -3539,3 +3539,8 @@ input[type="checkbox"]:disabled
     visibility: visible;
 }
 /*# sourceMappingURL=app.min.css.map */
+
+
+.bg-theme-primary{
+    background-color: #F3FAFF;
+  }
